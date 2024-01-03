@@ -105,4 +105,20 @@ public class AuthController {
 
 		return ResponseEntity.created(location).body(new ApiResponse(Boolean.TRUE, "User registered successfully"));
 	}
+
+	static void test(){
+		
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
